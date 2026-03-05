@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "gender": "female",
+    "age": 25,
+    "zodiac": "Aries",
+    "personality": "INTJ",
+    "traits": ["理性", "内向", "好奇心强"],
+    "history": []
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "gender": "male",
+    "age": 27,
+    "zodiac": "Taurus",
+    "personality": "ESFP",
+    "traits": ["外向", "乐观", "感性"],
+    "history": []
+  },
+  {
+    "id": 3,
+    "name": "Cathy",
+    "gender": "female",
+    "age": 23,
+    "zodiac": "Gemini",
+    "personality": "INFJ",
+    "traits": ["沉思", "敏感", "善于倾听"],
+    "history": []
+  }
+]
